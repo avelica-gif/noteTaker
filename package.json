@@ -1,0 +1,19 @@
+{
+  "name": "notetaker",
+  "version": "1.0.0",
+  "description": "Takes and saves your notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avelica-gif/noteTaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avelica-gif/noteTaker/issues"
+  },
+  "homepage": "https://github.com/avelica-gif/noteTaker#readme"
+}
